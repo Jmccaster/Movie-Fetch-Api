@@ -1,0 +1,21 @@
+body {
+  padding: 3em;
+}
+.title {
+  text-align: center;
+}
+.genre {
+  text-align: center;
+}
+.pic {
+  text-align: center;
+  margin-left: 30%;
+}
+.year {
+  text-align: center;
+}
+input {
+  text-align: center;
+  background-color: lightblue;
+  color: blue;
+}
